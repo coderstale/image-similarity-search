@@ -55,7 +55,7 @@ image-similarity-search/
 1.  **Clone the repository:**
     Make sure you have Git LFS installed (`git lfs install`).
     ```bash
-    git clone [https://github.com/coderstale/image-similarity-search.git](https://github.com/coderstale/image-similarity-search.git)
+    git clone https://github.com/coderstale/image-similarity-search.git
     cd image-similarity-search
     ```
 
