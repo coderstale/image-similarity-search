@@ -1,0 +1,12 @@
+
+venv/
+__pycache__/
+*.pyc
+
+python_extractor/dataset/
+
+c_search/obj/
+c_search/bin/
+
+.vscode/
+
